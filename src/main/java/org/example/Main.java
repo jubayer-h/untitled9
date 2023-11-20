@@ -6,6 +6,7 @@ public class Main {
 
 
         System.out.println("i add another code");
+        System.out.println("try another time");
     }
 
 
